@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.20.0",
+    "axios": "^0.21.1",
     "fs": "0.0.1-security",
     "jsdom": "^16.4.0",
     "papaparse": "^5.3.0"
